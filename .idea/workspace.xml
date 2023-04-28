@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80851940-cfc5-4217-af89-0c1160f25457" name="Changes" comment="Opgave 4 - Lav 2 terning som kan bruges med en abstract metode int rul() og hvis man slår højere end 10 skal man slå igen&#10;&#10;del opgave lav en loadeddie som kan øge sandsynligheden for at ramme 6">
-      <change beforePath="$PROJECT_DIR$/src/FairDie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Opg4Terning/FairDie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LoadedDie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Opg4Terning/LoadedDie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Opg4Terning/Main.java" afterDir="false" />
+    <list default="true" id="80851940-cfc5-4217-af89-0c1160f25457" name="Changes" comment="Lagt opgave 4 i en package">
+      <change afterPath="$PROJECT_DIR$/src/Opg3HøjereLavere/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Opg4Terning/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Opg4Terning/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,11 +84,30 @@
       <option name="project" value="LOCAL" />
       <updated>1682673885282</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Lagt opgave 4 i en package">
+      <created>1682674542197</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682674542197</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -116,6 +135,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Opgave 4 - Lav 2 terning som kan bruges med en abstract metode int rul() og hvis man slår højere end 10 skal man slå igen" />
     <MESSAGE value="Opgave 4 - Lav 2 terning som kan bruges med en abstract metode int rul() og hvis man slår højere end 10 skal man slå igen&#10;&#10;del opgave lav en loadeddie som kan øge sandsynligheden for at ramme 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opgave 4 - Lav 2 terning som kan bruges med en abstract metode int rul() og hvis man slår højere end 10 skal man slå igen&#10;&#10;del opgave lav en loadeddie som kan øge sandsynligheden for at ramme 6" />
+    <MESSAGE value="Har lagt opgave 4 i master branchen" />
+    <MESSAGE value="Lagt opgave 4 i en package" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lagt opgave 4 i en package" />
   </component>
 </project>
