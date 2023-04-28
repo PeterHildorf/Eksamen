@@ -1,3 +1,5 @@
+package Opg4Terning;
+
 public class FairDie {
     private int antalsider;
 
