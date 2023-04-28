@@ -5,6 +5,12 @@ public class Main {
         /**
          * Opgave 4 lav 2 terninger som kan bruges med en abstract metode int rul() og hvis man slår højere end 10 skal man slå igen
          */
+        LoadedDie loadedDie = new LoadedDie(0.65);
+        int resultat = loadedDie.rul();
+        System.out.println(resultat);
+
+
+        /*
         Scanner scan = new Scanner(System.in);
         FairDie terning = new FairDie(6);
         FairDie terning2 = new FairDie(6);
@@ -28,5 +34,9 @@ public class Main {
                 System.out.println(resultat);
             }
         }
+
+         */
     }
+
+
 }
