@@ -1,3 +1,5 @@
+package Opg4Terning;
+
 public class LoadedDie extends FairDie{
     private double chancen;
 

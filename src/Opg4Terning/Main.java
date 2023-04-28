@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package Opg4Terning;
 
 public class Main {
     public static void main(String[] args) {
@@ -12,8 +12,8 @@ public class Main {
 
         /*
         Scanner scan = new Scanner(System.in);
-        FairDie terning = new FairDie(6);
-        FairDie terning2 = new FairDie(6);
+        Opg4Terning.FairDie terning = new Opg4Terning.FairDie(6);
+        Opg4Terning.FairDie terning2 = new Opg4Terning.FairDie(6);
         int resultat = terning.rul()+ terning2.rul();
 
         System.out.println("Tryk k for at kaste terninger");
@@ -28,8 +28,8 @@ public class Main {
             }else if(resultat > 10){
                 System.out.println("Du slog højere end 10, slå igen");
                 scan.next();
-               terning = new FairDie(6);
-               terning2 = new FairDie(6);
+               terning = new Opg4Terning.FairDie(6);
+               terning2 = new Opg4Terning.FairDie(6);
                resultat = terning.rul()+ terning2.rul();
                 System.out.println(resultat);
             }
