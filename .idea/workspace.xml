@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80851940-cfc5-4217-af89-0c1160f25457" name="Changes" comment="Lagt opgave 4 i en package">
-      <change afterPath="$PROJECT_DIR$/src/Opg3HøjereLavere/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Opg1Id/Id.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Opg1Id/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Opg2CSVfil/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Opg2CSVfil/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Opg2CSVfil/Reeksamen_Opgave2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Opg4Terning/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Opg4Terning/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -33,7 +38,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2P2z6gzJawdoI07wDVnqC5DkaRr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,11 +54,66 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Opg2CSVfil" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opg2CSVfil.Main" />
+      <module name="Eksamen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Opg2CSVfil.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Opg1Id.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opg1Id.Main" />
+      <module name="Eksamen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Opg1Id.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opg2_test.Person" />
+      <module name="Eksamen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Opg2_test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Opg1Id.Main" />
+        <item itemvalue="Application.Person" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +124,8 @@
       <updated>1682669790923</updated>
       <workItem from="1682669792694" duration="951000" />
       <workItem from="1682670785402" duration="2879000" />
+      <workItem from="1685012501089" duration="1776000" />
+      <workItem from="1685014336276" duration="5018000" />
     </task>
     <task id="LOCAL-00001" summary="Opgave 4 - Lav 2 terning som kan bruges med en abstract metode int rul() og hvis man slår højere end 10 skal man slå igen">
       <created>1682671182118</created>
@@ -138,5 +202,15 @@
     <MESSAGE value="Har lagt opgave 4 i master branchen" />
     <MESSAGE value="Lagt opgave 4 i en package" />
     <option name="LAST_COMMIT_MESSAGE" value="Lagt opgave 4 i en package" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
